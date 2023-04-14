@@ -54,7 +54,7 @@
 ## Partie 3 : test de la portabilité (facultatif)
 
 :::{.incremental style="margin-left: 30px;"}
-8. Ouvrir un nouveau service `RStudio` sur le `SSPCloud`
+8. Ouvrir une nouvelle sessio Rstudio
 9. Cloner votre dépôt
 10. Exécuter `renv::restore()` pour installer les packages nécessaires à l'exécution du projet
 11. Vérifier que le `script.R` s'exécute correctement dans ce nouvel environnement.
@@ -66,7 +66,7 @@
 
 ::: {layout=[30,70]}
 
-- [script.R](https://raw.githubusercontent.com/InseeFrLab/formation-bonnes-pratiques-R/main/R/checkpoints/application4/script.R)
+- [script.R](https://github.com/cbobinec/formation-bonnes-pratiques-git-R/blob/main/R/checkpoints/application4/script.R)
 
 ![](checkpoint.jpg){width=60%}
 :::
