@@ -13,4 +13,4 @@ Pré-requis : [Paramétrer son compte gitlab depuis AUS](https://gitlab.insee.fr
 
 :::
 
-*Question** : Dans Rstudio qu'est ce qui différencie le projet cloné d'un projet quelconque ?
+❓  **Question** : Dans Rstudio qu'est ce qui différencie le projet cloné d'un projet quelconque ?

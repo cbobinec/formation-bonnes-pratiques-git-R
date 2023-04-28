@@ -1,7 +1,10 @@
 :::{.callout-tip collapse="true" icon=false}
 ## Utilisation de `Github`
 
-On remplace par... utilisation de Github?
-
-- Vocabulaire : `Pull Request` devient `Merge Request`
-- HTTPS plutôt que SSH
+::: {.incremental}
+Cette application vise à présenter l’interface de Github, dans le cadre de travaux hors environnement internes Insee.
+1. Fondal
+2. Connexion privilégiée : HTTPS plutôt que SSH
+1. Différence de vocabulaire dans le cadre de cette formation : `Pull Request` devient `Merge Request`
+:::
+:::
