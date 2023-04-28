@@ -1,6 +1,6 @@
 :::{.callout-tip collapse="true" icon=false}
 ## Préparation de l'environnement de travail sous AUS
-Pré-requis : [La procédure pour paramétrer son compte gitlab avec AUS](https://gitlab.insee.fr/infrastructure/lss/ausv3/documentation-utilisateurs/-/wikis/Logiciels/Git#cr%C3%A9ation-et-param%C3%A9trage-des-cl%C3%A9s-ssh-pour-pouvoir-communiquer-avec-gitlabinseefr)
+Pré-requis : [Paramétrer son compte gitlab depuis AUS](https://gitlab.insee.fr/infrastructure/lss/ausv3/documentation-utilisateurs/-/wikis/Logiciels/Git#cr%C3%A9ation-et-param%C3%A9trage-des-cl%C3%A9s-ssh-pour-pouvoir-communiquer-avec-gitlabinseefr)
 
 :::{.incremental}
 1. Se rendre sur [`Gitlab`](https://gitlab.insee.fr), cliquer sur "Sign in"
@@ -13,4 +13,4 @@ Pré-requis : [La procédure pour paramétrer son compte gitlab avec AUS](https:
 
 :::
 
-❓ **Question** : qanss Rsutudioo u'est ce qui différencie le projet cloné d'un projet quelconque ?
+*Question** : Dans Rstudio qu'est ce qui différencie le projet cloné d'un projet quelconque ?
