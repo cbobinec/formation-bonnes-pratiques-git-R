@@ -1,19 +1,16 @@
 :::{.callout-tip collapse="true" icon=false}
-## Préparation de l'environnement de travail
+## Préparation de l'environnement de travail sous AUS
+Pré-requis : [La procédure pour paramétrer son compte gitlab avec AUS](https://gitlab.insee.fr/infrastructure/lss/ausv3/documentation-utilisateurs/-/wikis/Logiciels/Git#cr%C3%A9ation-et-param%C3%A9trage-des-cl%C3%A9s-ssh-pour-pouvoir-communiquer-avec-gitlabinseefr)
 
 :::{.incremental}
-1. Créer un compte [`GitHub`](https://github.com/)
-2. Créer un nouveau dépôt **privé** sur `GitHub`
-3. Créer un compte sur le [SSP Cloud](https://datalab.sspcloud.fr/home)
-4. Lancer un service `RStudio`. Dans l'onglet de configuration `Git` du service, fixer la durée du `Cache` pour le stockage des identifiants `GitHub` à une valeur suffisamment élevée
-5. Cloner le dépôt distant sur votre environnement local (ici, le `RStudio` du `Datalab`):
+1. Se rendre sur [`Gitlab`](https://gitlab.insee.fr), cliquer sur "Sign in"
+2. Créer un nouveau projet dans son espace personnel : choisir "group ou namespace" avec son idep
+3. Lancer `RStudio` sous AUS
+4. Cloner le dépôt distant :
     + `File` → `New project` → `Version Control` → `Git`
-6. [Générer un *token*](https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) (jeton d'authentification) sur `GitHub`
-7. Stocker le *token* sur le `SSP Cloud` (ou un gestionnaire de mot de passe) :
-    + `Mon Compte` -> `Services externes` -> `Jeton d'accès personnel GitHub`
-8. Terminer la procédure de clonage en fournissant le nom d'utilisateur `GitHub` et le *token*
+5. Copier/coller l'adresse SSH présentée pour le projet par Gitlab
 :::
 
 :::
 
-❓ **Question** : qu'est ce qui différencie le projet cloné d'un projet quelconque ?
+❓ **Question** : qanss Rsutudioo u'est ce qui différencie le projet cloné d'un projet quelconque ?
