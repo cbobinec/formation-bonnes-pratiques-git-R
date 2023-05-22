@@ -6,7 +6,7 @@
 2. Créer une branche intitulée `<votre_nom>-<votre_prénom>`
 3. Effectuer un `commit` avec les modifications de votre choix, puis pousser les changements sur votre `fork`
 4. Ouvrir une `Merge Request` (`MR`) pour proposer d'intégrer vos changements sur la branche principale du dépôt.
-5. Ouvrir une `Issue` dans laquelle vous mentionnez la `Merge Request` précédemment ouverte
+5. Ouvrir une `Issue` dans laquelle vous mentionnez la `Merge Request` précédemment ouverte : pour cela inclure dans le `!1` (où 1 est ici l'identifiant de la MR)
 :::
 
 :::
