@@ -2,9 +2,10 @@
 ## Utilisation de `Github`
 
 ::: {.incremental}
-Cette application vise à présenter l’interface de Github, dans le cadre de travaux hors environnement internes Insee.
-1. Fondal
+Cette application vise à présenter succintement l’interface de Github, dans le cadre de travaux hors environnement interne Insee.
+
+1. Avantage/inconvénient: sur internet (pas depuis AUS, proxy à gérer, échange hors Insee)
 2. Connexion privilégiée : HTTPS plutôt que SSH
-1. Différence de vocabulaire dans le cadre de cette formation : `Pull Request` devient `Merge Request`
+3. Différence de vocabulaire dans le cadre de cette formation : `Pull Request` devient `Merge Request`
 :::
 :::

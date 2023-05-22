@@ -4,7 +4,7 @@
 
 - L'éco-système `Git` [**facilite** le travail collaboratif]{.blue2}
     - `Git` {{< fa brands git-alt >}} : modèle des [__branches__]{.orange}
-    - `GitHub` {{< fa brands github >}} / `GitLab` {{< fa brands gitlab >}} : [**Issues**, **Pull Requests**, **Forks**]{.orange}
+    - `GitHub` {{< fa brands github >}} / `GitLab` {{< fa brands gitlab >}} : [**Issues**, **Merge Requests**, **Forks**]{.orange}
 
 . . .
 

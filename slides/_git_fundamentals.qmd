@@ -279,7 +279,7 @@ Le site [`gitignore.io`](https://www.toptal.com/developers/gitignore) peut vous 
 des modèles.
 
 N'hésitez pas à y ajouter des règles conservatrices (par exemple `*.csv`), 
-comme cela est expliqué dans [la documentation `utilitR`](https://www.book.utilitr.org/git.html?q=gitignore#gitignore).
+comme cela est expliqué dans [la documentation `utilitR`](https://www.book.utilitr.org/03_fiches_thematiques/fiche_git_utilisation#gitignore).
 
 :::
 
