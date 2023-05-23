@@ -1,7 +1,7 @@
 ---
 title: Bonnes pratiques pour les projets statistiques
 subtitle: |
-  **[Une formation aux bonnes pratiques avec Git et R]{.orange}**
+  **[Une formation aux bonnes pratiques avec Git et R - Formation locale DR 44]{.orange}**
 author: |
   [Romain Avouac](https://github.com/avouacr),
   [Thomas Faria](https://github.com/ThomasFaria),
